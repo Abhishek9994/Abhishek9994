@@ -3,8 +3,8 @@
 
 ### 🚀 About Me
 - 🛠️ **Role**: Project Associate | QA Engineer  
-- 🏢 **Organization**: [E-Health Research Center, IIIT Bangalore](https://ehealth.iiitb.ac.in)  
-- 🌱 **Currently Learning**: Advanced QA Techniques, GitHub Actions  
+- 🏢 **Organization**: [E-Health Research Center, IIIT Bangalore](https://ehrc.iiitb.ac.in/) 
+- 🌱 **Currently Learning**: Advanced QA Techniques, Jenkins, Cypress, Python. 
 
 ### 🧑‍💻 My Expertise
 - **Quality Assurance**: Manual and automated testing.
