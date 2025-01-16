@@ -8,8 +8,8 @@
 
 ### 🧑‍💻 My Expertise
 - **Quality Assurance**: Manual and automated testing.
-- **Tech Skills**: Python, Selenium, Postman.
-- **Projects**: Tele Manas, IVR Deployment.
+- **Tech Skills**: Java, Selenium, Postman, Jmeter.
+- **Projects**: Tele Manas, Let's talk life.
 
 ### 🌟 Fun Facts
 - 💻 Passionate about technology in healthcare.
@@ -17,8 +17,7 @@
 - 📱 Interested in mobile and web app testing.
 
 ### 🔗 Connect with Me
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🖥️ [Portfolio](https://your-portfolio.com)  
-- 📫 **Email**: your-email@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/abhishek-patil-25112829b/) 
+- 📫 **Email**: patil.abhishek9994@gmail.com
 
 
