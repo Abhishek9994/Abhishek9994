@@ -1,4 +1,3 @@
-### Hi there 👋
 # Hi there! 👋 I'm Abhishek Vilas Patil. 
 
 ### 🚀 About Me
