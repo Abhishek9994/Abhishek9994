@@ -1,16 +1,24 @@
 ### Hi there 👋
+# Hi there! 👋 I'm [Your Name]  
 
-<!--
-**Abhishek9994/Abhishek9994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 🛠️ **Role**: Project Associate | QA Engineer  
+- 🏢 **Organization**: [E-Health Research Center, IIIT Bangalore](https://ehealth.iiitb.ac.in)  
+- 🌱 **Currently Learning**: Advanced QA Techniques, GitHub Actions  
 
-Here are some ideas to get you started:
+### 🧑‍💻 My Expertise
+- **Quality Assurance**: Manual and automated testing.
+- **Tech Skills**: Python, Selenium, Postman.
+- **Projects**: Tele Manas, IVR Deployment.
 
-- 🔭 I’m currently working on ...Masai School 
-- 🌱 I’m currently learning ...Software Development Engineer in Test
-- 👯 I’m looking to collaborate on ...React.js
-- 🤔 I’m looking for help with ...Node.js
-- 💬 Ask me about ...
-- 📫 How to reach me: ... patil.abhishek9994@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Fun Facts
+- 💻 Passionate about technology in healthcare.
+- 🎯 Love solving critical issues in real-time deployments.
+- 📱 Interested in mobile and web app testing.
+
+### 🔗 Connect with Me
+- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
+- 🖥️ [Portfolio](https://your-portfolio.com)  
+- 📫 **Email**: your-email@example.com
+
+
