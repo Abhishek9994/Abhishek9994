@@ -1,22 +1,29 @@
-# Hi there! 👋 I'm Abhishek Patil. 
+Hi there! 👋 I'm Abhishek Patil
 
-### 🚀 About Me
-- 🛠️ **Role**: Project Associate | QA Engineer  
-- 🏢 **Organization**: [E-Health Research Center, IIIT Bangalore](https://ehrc.iiitb.ac.in/) 
-- 🌱 **Currently Learning**: Advanced QA Techniques, Jenkins, Cypress, Python. 
+🚀 **About Me**
+🛠️ Quality Assurance Engineer | SDET | Project Coordination
+🏢 E-Health Research Center, IIIT Bangalore
+🌱 Currently focusing on Playwright automation, advanced QA techniques, and CI/CD integration
 
-### 🧑‍💻 My Expertise
-- **Quality Assurance**: Manual and automated testing.
-- **Tech Skills**: Java, Selenium, Postman, Jmeter.
-- **Projects**: Tele Manas, Let's talk life.
+🧑‍💻 **Expertise**
+🔹 UI Automation: Playwright, Selenium
+🔹 API Testing: Postman
+🔹 Performance Testing: JMeter
+🔹 Database Testing: SQL
+🔹 CI/CD: Jenkins
+🔹 Programming: JavaScript, Java
 
-### 🌟 Fun Facts
-- 💻 Passionate about technology in healthcare.
-- 🎯 Love solving critical issues in real-time deployments.
-- 📱 Interested in mobile and web app testing.
+📌 **Projects**
+🔹 Tele MANAS (Tele Mental Health Assistance and Networking Across States)
+🔹 Let’s Talk Life
 
-### 🔗 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/abhishek-patil-25112829b/) 
-- 📫 **Email**: patil.abhishek9994@gmail.com
+🌟 **What Drives Me**
+💻 Passionate about building reliable and scalable test automation frameworks
+🎯 Focused on improving test coverage and reducing manual effort
+📱 Interested in web and mobile application testing
+
+🔗 **Connect with Me**
+💼 LinkedIn: https://www.linkedin.com/in/abhishekpatil-sdet/
+📫 Email: [patil.abhishek9994@gmail.com](mailto:patil.abhishek9994@gmail.com)
 
 
